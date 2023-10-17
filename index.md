@@ -1,6 +1,6 @@
 ## Welcome to Kingybu`s Github                                                                         
 
-Just a Website from a 12 Year old Boy...
+Just a Website from a 11 Year old Boy...
 
 ### Just a Derp Cookie
 
@@ -13,19 +13,14 @@ Just a Website from a 12 Year old Boy...
 
 
 ### My Games :D
-
-Fortnite: Kingybu     
-Minecraft: MAUPAPI                                                            
-Steam FriendCode: [445922955](https://s.team/p/cpng-fvmq/WFJDBPKB)                                   
-Discord Server: [Terracord](https://discord.gg/BqYH9pA)            
-Discord Name: Maupapi#3415
+                                                              
 
 
 [Just to test](video.html)     
 
 
 ### Retro Games
-All games are made by [Steven Lambert](https://gist.github.com/straker) and [me](https://github.com/Kingybu)
+All games are made by [Jaden](jaden)
 
 [![Snake](snake.png "Snake")](snake.html)
 [![Tetris](tetris.png "Tetris")](tetris.html)
