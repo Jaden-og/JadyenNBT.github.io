@@ -1,4 +1,4 @@
-## Welcome to Jaden's Website                                                                      
+## Welcome to FUN.rip                                                                     
 
 Just a Website from a 11 Year old Boy...
 
