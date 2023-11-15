@@ -32,4 +32,5 @@ All games are made by [Jaden](jaden)
 [![Battlenite Pixel](battlenite.png "Battlenite Pixel")](battlenite.html)
 [![Mission I The Plane](plane.jpg "Mission I The Plane")](plane.html)
 [![Flappy Bird](Bird.png "Flappy bird")](bird.html)
+[Guess the Number](gg.html)
 <a href="patrick.png" download>Download File</a>
