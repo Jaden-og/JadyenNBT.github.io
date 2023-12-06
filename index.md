@@ -33,5 +33,6 @@ All games are made by [Jaden](jaden)
 [![Mission I The Plane](plane.jpg "Mission I The Plane")](plane.html)
 [![Flappy Bird](Bird.png "Flappy bird")](bird.html)
 [Guess the Number](gg.html)  
- [Wordle](https://jadyennbt.github.io/wordle-speedrun/)
+[Wordle](https://jadyennbt.github.io/wordle-speedrun/)
+[Memory Game](https://jadyennbt.github.io/memory-game/)
 <a href="patrick.png" download>Download File</a>
