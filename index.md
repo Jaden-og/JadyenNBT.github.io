@@ -28,7 +28,7 @@
 [![Battlenite Pixel](battlenite.png "Battlenite Pixel")](battlenite.html)
 [![Mission I The Plane](plane.jpg "Mission I The Plane")](plane.html)
 [![Flappy Bird](Bird.png "Flappy bird")](bird.html)
--------------------------------------------------------------------------------
+
 
 ### games 
 
