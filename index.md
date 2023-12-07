@@ -6,10 +6,10 @@
 [lmao just click me](https://jadyennbt.github.io/Funny/)
 
 
+###  owner of this website is JadenXKD
 
 
-
-### Games
+###ALL Games BY JadenXKD
                                                               
 
 
@@ -41,14 +41,11 @@
 [PolyDash](https://jadyennbt.github.io/PolyDash-/) BY JadenXKD
 
 
+### 2 website games by the owner of this website JadenXKD
 
 
 
-
-
-
-
-
+[CRGames](https://jadyennbt.github.io/games/#bounce)
 
 
 
