@@ -9,15 +9,14 @@
 
 
 
-### My Games :D
+### Games
                                                               
 
 
-[Just to test](video.html)     
+[learn how to submit games](video.html)     
 
 
 ### Retro Games
-All games are made by [Jaden](jaden)
 
 [![Snake](snake.png "Snake")](snake.html)
 [![Tetris](tetris.png "Tetris")](tetris.html)
@@ -28,8 +27,52 @@ All games are made by [Jaden](jaden)
 [![super mario Odyssey](mario.png "super mario Odyssey")](Marion.html)
 [![Battlenite Pixel](battlenite.png "Battlenite Pixel")](battlenite.html)
 [![Mission I The Plane](plane.jpg "Mission I The Plane")](plane.html)
-[![Flappy Bird](Bird.png "Flappy bird")](gg.MP.html)
-[Guess the Number](gg.html)  
-[Wordle](https://jadyennbt.github.io/wordle-speedrun/)
-[Memory Game](https://jadyennbt.github.io/memory-game/)
+[![Flappy Bird](Bird.png "Flappy bird")](bird.html)
+-------------------------------------------------------------------------------
+
+### games 
+
+[Wordle](https://jadyennbt.github.io/wordle-speedrun/)  BY JadenXKD
+
+[Guess the Number](gg.html)  BY JadenXKD
+
+[Memory Game](https://jadyennbt.github.io/memory-game/)  BY JadenXKD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <a href="patrick.png" download>Download File</a>
