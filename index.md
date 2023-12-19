@@ -40,6 +40,7 @@
 
 [PolyDash](https://jadyennbt.github.io/PolyDash-/) BY JadenXKD
 
+[slope-game](https://jadyennbt.github.io/slope-game/) BY JadenXKD
 
 ### 2 website games by the owner of this website JadenXKD
 
