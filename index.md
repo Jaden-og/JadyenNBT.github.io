@@ -45,6 +45,94 @@
 
 
 
+### Touch controls supported 
+
+
+[cookie clicker Remaster clone ](https://jadyennbt.github.io/cookieclicker/)
+
+[![Flappy Bird](Bird.png "Flappy bird")](bird.html)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
