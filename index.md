@@ -24,7 +24,7 @@
 
 ### games 
 
-[Wordle](https://jadyennbt.github.io/wordle-speedrun/)  
+[Wordle](https://jaden-og.github.io/wordle-speedrun/)  
 
 [Guess the Number](gg.html)  
 
