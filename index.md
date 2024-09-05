@@ -22,7 +22,7 @@
 [![Flappy Bird](Bird.png "Flappy bird")](bird.html)
 
 
-### games 
+### NEW games 
 
 [Wordle](https://jaden-og.github.io/wordle-speedrun/)  
 
@@ -30,7 +30,7 @@
 
 [Memory Game](https://jadyennbt.github.io/memory-game/)  
 
-[PolyDash](https://jadyennbt.github.io/PolyDash-/) 
+[PolyDash](https://jaden-og.github.io/PolyDash-/) 
 
 [slope-game](https://jadyennbt.github.io/slope-game/) 
 
